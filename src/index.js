@@ -1,2 +1,2 @@
 import {Abc} from './abc';
-//import {Command} from './command';
+import {Command} from './command';
