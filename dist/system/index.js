@@ -1,4 +1,4 @@
-System.register(['./abc', './command'], function (_export) {
+System.register([], function (_export) {
   'use strict';
 
   var Abc, Command;
