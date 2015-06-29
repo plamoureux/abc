@@ -1,2 +1,2 @@
-import {Test} from './test';
-import {Command} from './command';
+//import {Test} from './test';
+//import {Command} from './command';
