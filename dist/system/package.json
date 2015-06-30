@@ -1,7 +1,7 @@
 {
   "name": "plamoureux-test",
   "version": "1.0.0",
-  "description": "test",
+  "description": "Module utilisé à des fins de tests",
   "repository": {
     "type": "git",
     "url": "http://github.com/plamoureux/test"
