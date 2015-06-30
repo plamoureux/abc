@@ -1,8 +1,8 @@
 import {route} from 'skyy/web-components/pages/decorators';
 import {Command} from './command';
 
-@route('abc', {title: 'abc'})
-export class Abc {
+@route('test', {title: 'Test'})
+export class Test {
   message = 'GO!';
   
   constructor() {
